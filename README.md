@@ -15,6 +15,8 @@ How it works
 bing's website is redirected via dns to the server running within siriproxy (\lib\siriproxy\connection\bing.rb)
 
 list of commands
+
+    #preferences
     "open about settings" => " prefs:root=General&path=About",
     "open accessibility settings" => "prefs:root=General&path=ACCESSIBILITY",
     "open airplane mode settings" => "prefs:root=AIRPLANE_MODE",
